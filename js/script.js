@@ -4,7 +4,7 @@ const playerAnimation = {
     targets: '#boxContainer',
     rotate: '360deg',
     duration: 20000,
-    scale: 3,
+    scale: 2,
     direction: 'alternate',
     easing: 'easeInOutQuad',
     loop: 1,
